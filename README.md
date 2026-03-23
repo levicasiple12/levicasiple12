@@ -7,7 +7,7 @@
 ## 🚀 Featured Project
 
 ### [NEU Library Management System](https://neu-library-system-fa116.web.app/)
-Isang modernong web application na ginawa para sa New Era University Library. 
+Project namin sa IM2 (Information Management 2) 
 - **Tech Stack:** HTML5, CSS3, JavaScript, Firebase (Realtime Database & Authentication).
 - **Key Features:** Google Login integration, Real-time visitor analytics, Admin Block Panel, at Export to Excel functionality.
 - **Live Demo:** [Check it out here!](https://neu-library-system-fa116.web.app/)
