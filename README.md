@@ -31,10 +31,7 @@ Isang modernong web application na ginawa para sa New Era University Library.
 
 | Certificate | Issued By | Month Issued |
 | :--- | :--- | :--- |
-| **[SQL and Relational Database 101](https://courses.cognitiveclass.ai/certificates/c1192529aed5420d8b4148818f751cec)** | Cognitive Class (IBM) | [Nov 2025] |
-| **[Oracle Cloud Infrastructure 2023 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C66788FAE71C6387EEECA7E7050E47625AF10A46712E9874DA696FDA8B05888C)** | Oracle | [Dec 2025] |
-| **[Oracle Cloud Data Management Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5F4D72C76BB9C9D92C3439C155104F7C618F20ED4D2A55C5446681224610F422)** | Oracle | [Dec 2025] |
-| **[Oracle Cloud Infrastructure 2023 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8387B6810B4DEB8171843965831237746EF44440792E560856347518FF4E36BD)** | Oracle | [Dec 2025] |
+| [Dec 2025] |
 | 🎓 [**SQL and Relational Database 101**](https://courses.cognitiveclass.ai/certificates/c1192529aed5420d8b4148818f751cec) | Cognitive Class (IBM) | Nov 2025 |
 | ☁️ [**OCI 2023 Foundations Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C66788FAE71C6387EEECA7E7050E47625AF10A46712E9874DA696FDA8B05888C) | Oracle | Dec 2025 |
 | 📊 [**Oracle Cloud Data Management Foundations**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5F4D72C76BB9C9D92C3439C155104F7C618F20ED4D2A55C5446681224610F422) | Oracle | Dec 2025 |
