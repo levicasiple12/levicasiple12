@@ -14,8 +14,8 @@ I am **Levi V. Casiple**, an Information Technology student with a flair for cod
 
 ### 📜 Certifications
 *   [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d6aa6e036ed34808bcdfeca11d55768c)
-*   [Oracle Cloud Data Management 2023 Foundations Associate](https://education.oracle.com/pls/certview/sharebadge?id=EXAMPLE_ID)
-*   [Oracle Cloud Infrastructure 2023 Foundations Associate](https://education.oracle.com/pls/certview/sharebadge?id=EXAMPLE_ID)
+*   [Oracle Cloud Data Management 2023 Foundations Associate](https://education.oracle.com/pls/certview/sharebadge?id=YOUR_ID_HERE)
+*   [Oracle Cloud Infrastructure 2023 Foundations Associate](https://education.oracle.com/pls/certview/sharebadge?id=YOUR_ID_HERE)
 
 ---
 
